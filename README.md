@@ -1,4 +1,4 @@
-# Hola Mundo con Doe.js
+# Hola Mundo con Node.js
 
 Este es un simple ejemplo de cómo crear un "Hola Mundo" utilizando Doe.js, un marco de trabajo minimalista para Node.js.
 
